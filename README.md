@@ -6,7 +6,7 @@ I will make these apps open-source when I reach a few thousand downloads on the 
 
 | [BIP-39 Coin-flip for crypto](https://play.google.com/store/apps/details?id=com.molnike.crypto.seed) | [BIP-39 Crypto seed backup](https://play.google.com/store/apps/details?id=com.molnike.crypto.backup) | [BTC secp256k1 sign offline](https://play.google.com/store/apps/details?id=com.molnike.crypto.simplesign) |
 | --- | --- | --- |
-| Random seed generation by<br>coin-toss and dice D8 | Seed encryption with<br>standart AES-256 | Secure offline **bitcoin**<br>transactions (QR air-gap) |
+| Random seed generation by<br>coin-toss or dice D8 | Seed encryption with<br>standart AES-256 | Secure offline **bitcoin**<br>transactions (QR air-gap) |
 | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_gen.png "BIP-39 Coin-flip for crypto") | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_aes.png "BIP-39 Crypto seed backup") | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/btc_sign.png "BTC secp256k1 sign offline") |
 
 # Mail:
