@@ -10,8 +10,17 @@ Mol Nike's cryptocurrency Apps list:
 
 I will make these apps open when I reach a few thousand downloads on the google play store
 
-Mail:
+# Mail:
 molnike.info@gmail.com
 
-Mol Nike's wallet for donations:
-[bc1qxs7s55hrwu6k5539dlyl82a5vdljcllshn9mfs](https://blockchair.com/bitcoin/address/bc1qxs7s55hrwu6k5539dlyl82a5vdljcllshn9mfs)
+# Donations:
+Mol Nike's wallets:
+
+bitcoin: [bc1qxs7s55hrwu6k5539dlyl82a5vdljcllshn9mfs](https://blockchair.com/bitcoin/address/bc1qxs7s55hrwu6k5539dlyl82a5vdljcllshn9mfs)
+
+dogecoin: [DNwLggHUgHtyRTd5ErhVSVs2d8ue78VRX4](https://blockchair.com/dogecoin/address/DNwLggHUgHtyRTd5ErhVSVs2d8ue78VRX4) - best coin =)
+
+erherium(+any tokens): [0x930a3D9AFC7dD1B2Ff62584eC82B009697CB57F8](https://www.blockchain.com/explorer/addresses/eth/0x930a3D9AFC7dD1B2Ff62584eC82B009697CB57F8)
+
+and avalance/bnb(bep-20)/polygon with same address as Ethereum. Contact me via mail for other coins address.
+
