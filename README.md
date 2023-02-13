@@ -4,9 +4,15 @@ Mol Nike's cryptocurrency Apps list:
 
 [BIP-39 Coin-flip for crypto](https://play.google.com/store/apps/details?id=com.molnike.crypto.seed) - for random seed generation by coin-toss and dice
 
+![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_gen.png "BIP-39 Coin-flip for crypto")
+
 [BIP-39 Crypto seed backup](https://play.google.com/store/apps/details?id=com.molnike.crypto.backup) - for seed encryption with standart AES-256
 
+![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_aes.png "BIP-39 Crypto seed backup")
+
 [BTC secp256k1 sign offline](https://play.google.com/store/apps/details?id=com.molnike.crypto.simplesign) - for safe offline bitcoin transactions (QR air gap)
+
+![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/btc_sign.png "BTC secp256k1 sign offline")
 
 I will make these apps open when I reach a few thousand downloads on the google play store
 
