@@ -16,7 +16,7 @@ molnike.info@gmail.com
 Mol Nike's wallets:<br>
 <br>Bitcoin: [bc1qxs7s55hrwu6k5539dlyl82a5vdljcllshn9mfs](https://blockchair.com/bitcoin/address/bc1qxs7s55hrwu6k5539dlyl82a5vdljcllshn9mfs) - this address I created with dice and it will only be used with my own applications!
 <br>Dogecoin: [DNwLggHUgHtyRTd5ErhVSVs2d8ue78VRX4](https://blockchair.com/dogecoin/address/DNwLggHUgHtyRTd5ErhVSVs2d8ue78VRX4) - one of best coins =)
-<br>Etherium: [0x930a3D9AFC7dD1B2Ff62584eC82B009697CB57F8](https://www.blockchain.com/explorer/addresses/eth/0x930a3D9AFC7dD1B2Ff62584eC82B009697CB57F8) - for ETH and any tokens
+<br>Ethereum: [0x930a3D9AFC7dD1B2Ff62584eC82B009697CB57F8](https://www.blockchain.com/explorer/addresses/eth/0x930a3D9AFC7dD1B2Ff62584eC82B009697CB57F8) - for ETH and any tokens
 
-also Avalance / BNB (bep-20) / Polygon with same address as Ethereum. Contact me via mail for other coins address.
+also Avalanche / BNB (bep-20) / Polygon with same address as Ethereum. Contact me via mail for other coins address.
 
