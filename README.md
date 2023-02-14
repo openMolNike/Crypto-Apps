@@ -3,10 +3,13 @@
 Mol Nike's cryptocurrency Apps list:
 
 I will make these apps open-source when I reach a few thousand downloads on the [google play store](https://play.google.com/store/apps/developer?id=Mol+Nike)
+Please, when downloading APK files, also download the application from the store, otherwise the download statistics of the applications will not change
 
-| [BIP-39 Coin-flip for crypto](https://play.google.com/store/apps/details?id=com.molnike.crypto.seed) | [BIP-39 Crypto seed backup](https://play.google.com/store/apps/details?id=com.molnike.crypto.backup) | [BTC secp256k1 sign offline](https://play.google.com/store/apps/details?id=com.molnike.crypto.simplesign) |
+| BIP-39 Coin-flip for crypto | BIP-39 Crypto seed backup | BTC secp256k1 sign offline |
 | --- | --- | --- |
 | Random seed generation by<br>coin-toss or dice D8 | Seed encryption with<br>standart AES-256 | Secure offline **bitcoin**<br>transactions (QR air-gap) |
+| [Google Play Store](https://play.google.com/store/apps/details?id=com.molnike.crypto.seed) | [Google Play Store](https://play.google.com/store/apps/details?id=com.molnike.crypto.backup) | [Google Play Store](https://play.google.com/store/apps/details?id=com.molnike.crypto.simplesign) |
+| [apk version 0.5](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.seed.apk?raw=true) | [apk version 0.3](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.backup.apk?raw=true) | [apk version 0.5](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.simplesign.apk?raw=true) |
 | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_gen.png "BIP-39 Coin-flip for crypto") | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_aes.png "BIP-39 Crypto seed backup") | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/btc_sign.png "BTC secp256k1 sign offline") |
 
 # Mail:
