@@ -1,9 +1,10 @@
 # Crypto-Apps
 
-Mol Nike's cryptocurrency Apps list:
+Mol Nike's cryptocurrency Apps list for Android:
 
-I will make these apps open-source when I reach a few thousand downloads on the [google play store](https://play.google.com/store/apps/developer?id=Mol+Nike)
-Please, when downloading APK files, also download the application from the store, otherwise the download statistics of the applications will not change
+I will make these apps open-source when I reach a few thousand downloads on the [google play store](https://play.google.com/store/apps/developer?id=Mol+Nike).
+
+Please, when downloading *.apk files, also download the application from the store, otherwise the download statistics of the applications will not change.
 
 | BIP-39 Coin-flip for crypto | BIP-39 Crypto seed backup | BTC secp256k1 sign offline |
 | --- | --- | --- |
