@@ -1,8 +1,8 @@
 # Crypto-Apps
 
 Mol Nike's cryptocurrency Apps list for Android:
-
-I will make these apps open-source when I reach a few thousand downloads on the [google play store](https://play.google.com/store/apps/developer?id=Mol+Nike).
+**The main goal of all applications is to make a secure system for using bitcoin, the security of which is based on the fact that you do not need to check the source code, that is, a system in which you do not need to trust the developer.**
+However, I will make these apps open-source when I reach a few thousand downloads on the [google play store](https://play.google.com/store/apps/developer?id=Mol+Nike).
 
 Please, when downloading *.apk files, also download the application from the store, otherwise the download statistics of the applications will not change.
 
