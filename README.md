@@ -10,7 +10,7 @@ Please, when downloading *.apk files, also download the application from the sto
 | --- | --- | --- |
 | Random seed generation by<br>coin-toss or dice D8 | Seed encryption with<br>standart AES-256 | Secure offline **bitcoin**<br>transactions (QR air-gap) |
 | [Google Play Store](https://play.google.com/store/apps/details?id=com.molnike.crypto.seed) | [Google Play Store](https://play.google.com/store/apps/details?id=com.molnike.crypto.backup) | [Google Play Store](https://play.google.com/store/apps/details?id=com.molnike.crypto.simplesign) |
-| [apk version 0.6](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.seed.apk?raw=true) | [apk version 0.4](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.backup.apk?raw=true) | [apk version 0.5](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.simplesign.apk?raw=true) |
+| [apk version 0.6](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.seed.apk?raw=true) | [apk version 0.4](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.backup.apk?raw=true) | [apk version 0.6](https://github.com/openMolNike/Crypto-Apps/blob/main/apk/com.molnike.crypto.simplesign.apk?raw=true) |
 | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_gen.png "BIP-39 Coin-flip for crypto") | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/seed_aes.png "BIP-39 Crypto seed backup") | ![alt text](https://raw.githubusercontent.com/openMolNike/Crypto-Apps/main/images/btc_sign.png "BTC secp256k1 sign offline") |
 
 # Mail:
